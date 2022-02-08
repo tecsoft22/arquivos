@@ -1,0 +1,11 @@
+# REQUISITOS FUNCIONAIS #
+
+RF001 - Cadastrar produtos
+RF002 - Estoque de produtos
+RF003 - Consultar produtos (por descricao, nome e estoque)
+RF004 - Cadastrar administrador 
+RF005 - Login do administrador 
+RF006 - Gerar nota fiscal 
+RF007 - Editar e Excluir produtos 
+RF008 - Fechar Compra 
+RF009 - Consultar e excluir compras realizadas durante o dia 
