@@ -1,6 +1,6 @@
 # REQUISITOS FUNCIONAIS #
 
-RF001 - Cadastrar produtos
+RF001 - Cadastrar produtos (medicamentos)
 RF002 - Estoque de produtos
 RF003 - Consultar produtos (por descricao, nome e estoque)
 RF004 - Cadastrar administrador 
@@ -9,10 +9,15 @@ RF006 - Gerar nota fiscal
 RF007 - Editar e Excluir produtos 
 RF008 - Fechar Compra 
 RF009 - Consultar e excluir compras realizadas durante o dia 
+RF010 - Criar serviços adicionais 
+RF011 - Gerenciar fornecedor (cadastrar, excluir, editar e consultar)
 
 # REQUISITOS NÃO FUNCIONAIS #
 
 RNF001 - Usabilidade: a interface deve ser simples e interativa 
 RNF002 - Gerar pdf ao fim do expediente para fazer o apuramento do dia 
 RNF003 - Sistema confiável
-RNF004 - Sistema 
+RNF004 - Performance (o sistema deve ser "rápido") 
+
+# DOMÍNIO DE NEGÓCIO #
+Saúde / Farmácia 
