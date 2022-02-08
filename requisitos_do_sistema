@@ -9,3 +9,10 @@ RF006 - Gerar nota fiscal
 RF007 - Editar e Excluir produtos 
 RF008 - Fechar Compra 
 RF009 - Consultar e excluir compras realizadas durante o dia 
+
+# REQUISITOS NÃO FUNCIONAIS #
+
+RNF001 - Usabilidade: a interface deve ser simples e interativa 
+RNF002 - Gerar pdf ao fim do expediente para fazer o apuramento do dia 
+RNF003 - Sistema confiável
+RNF004 - Sistema 
